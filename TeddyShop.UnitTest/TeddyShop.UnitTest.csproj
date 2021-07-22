@@ -55,6 +55,31 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TeddyShop.Common\TeddyShop.Common.csproj">
+      <Project>{583945b0-210d-4ad7-b13a-785a3de4f604}</Project>
+      <Name>TeddyShop.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TeddyShop.Data\TeddyShop.Data.csproj">
+      <Project>{50096e26-a157-462f-b051-ff61d87059f2}</Project>
+      <Name>TeddyShop.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TeddyShop.Model\TeddyShop.Model.csproj">
+      <Project>{29f345f5-2250-4217-91d9-6e75e3b7c37b}</Project>
+      <Name>TeddyShop.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TeddyShop.Service\TeddyShop.Service.csproj">
+      <Project>{35d8eb76-d118-4a34-ad36-980fcb216d7e}</Project>
+      <Name>TeddyShop.Service</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TeddyShop.Web\TeddyShop.Web.csproj">
+      <Project>{3cb15e7f-7e5a-4063-8d3c-57a0cb77dbc2}</Project>
+      <Name>TeddyShop.Web</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

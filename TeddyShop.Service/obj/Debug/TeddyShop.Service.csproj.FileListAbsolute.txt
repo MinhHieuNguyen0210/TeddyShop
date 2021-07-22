@@ -1,0 +1,15 @@
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\bin\Debug\TeddyShop.Service.dll
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\bin\Debug\TeddyShop.Service.pdb
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\bin\Debug\TeddyShop.Common.dll
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\bin\Debug\TeddyShop.Data.dll
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\bin\Debug\TeddyShop.Model.dll
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\bin\Debug\TeddyShop.Common.pdb
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\bin\Debug\TeddyShop.Data.pdb
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\bin\Debug\TeddyShop.Data.dll.config
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\bin\Debug\TeddyShop.Model.pdb
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\bin\Debug\TeddyShop.Model.dll.config
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\obj\Debug\TeddyShop.Service.csproj.AssemblyReference.cache
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\obj\Debug\TeddyShop.Service.csproj.CoreCompileInputs.cache
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\obj\Debug\TeddyShop.Service.csproj.CopyComplete
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\obj\Debug\TeddyShop.Service.dll
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\obj\Debug\TeddyShop.Service.pdb

@@ -1,0 +1,6 @@
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Common\bin\Debug\TeddyShop.Common.dll
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Common\bin\Debug\TeddyShop.Common.pdb
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Common\obj\Debug\TeddyShop.Common.csproj.AssemblyReference.cache
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Common\obj\Debug\TeddyShop.Common.csproj.CoreCompileInputs.cache
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Common\obj\Debug\TeddyShop.Common.dll
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Common\obj\Debug\TeddyShop.Common.pdb

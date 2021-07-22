@@ -1,0 +1,14 @@
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\bin\Debug\TeddyShop.Data.dll.config
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\bin\Debug\TeddyShop.Data.dll
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\bin\Debug\TeddyShop.Data.pdb
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\bin\Debug\EntityFramework.dll
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\bin\Debug\TeddyShop.Common.dll
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\bin\Debug\TeddyShop.Common.pdb
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\bin\Debug\EntityFramework.xml
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\obj\Debug\TeddyShop.Data.csproj.AssemblyReference.cache
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\obj\Debug\TeddyShop.Data.csproj.CoreCompileInputs.cache
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\obj\Debug\TeddyShop.Data.csproj.CopyComplete
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\obj\Debug\TeddyShop.Data.dll
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\obj\Debug\TeddyShop.Data.pdb
