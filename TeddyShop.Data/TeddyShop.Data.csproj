@@ -51,18 +51,41 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Infrastructure\DbFactory.cs" />
+    <Compile Include="Infrastructure\Disposable.cs" />
+    <Compile Include="Infrastructure\IDbFactory.cs" />
+    <Compile Include="Infrastructure\IRepository.cs" />
+    <Compile Include="Infrastructure\IUnitOfWork.cs" />
+    <Compile Include="Infrastructure\RepositoryBase.cs" />
+    <Compile Include="Infrastructure\UnitOfWork.cs" />
+    <Compile Include="Migrations\202107230712336_InitalDB.cs" />
+    <Compile Include="Migrations\202107230712336_InitalDB.designer.cs">
+      <DependentUpon>202107230712336_InitalDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+    <Compile Include="Respositories\ProductCategoryRepository.cs" />
+    <Compile Include="Respositories\ProductRepository.cs" />
+    <Compile Include="TeddyShopDbContext.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TeddyShop.Common\TeddyShop.Common.csproj">
       <Project>{583945b0-210d-4ad7-b13a-785a3de4f604}</Project>
       <Name>TeddyShop.Common</Name>
     </ProjectReference>
+    <ProjectReference Include="..\TeddyShop.Model\TeddyShop.Model.csproj">
+      <Project>{29f345f5-2250-4217-91d9-6e75e3b7c37b}</Project>
+      <Name>TeddyShop.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202107230712336_InitalDB.resx">
+      <DependentUpon>202107230712336_InitalDB.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

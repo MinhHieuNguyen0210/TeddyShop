@@ -23,6 +23,7 @@ namespace TeddyShop.Model.Model
         [ForeignKey("GroupID")]
         public virtual MenuGroup MenuGroup { get; set; }
 
+        [MaxLength(10)]
         public string Target { set; get; }
 
         [Required]

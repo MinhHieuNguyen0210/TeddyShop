@@ -44,3 +44,5 @@ D:\HK2_2020-2021\TeddyShop\TeddyShop.UnitTest\obj\Debug\TeddyShop.UnitTest.cspro
 D:\HK2_2020-2021\TeddyShop\TeddyShop.UnitTest\obj\Debug\TeddyShop.UnitTest.csproj.CopyComplete
 D:\HK2_2020-2021\TeddyShop\TeddyShop.UnitTest\obj\Debug\TeddyShop.UnitTest.dll
 D:\HK2_2020-2021\TeddyShop\TeddyShop.UnitTest\obj\Debug\TeddyShop.UnitTest.pdb
+D:\HK2_2020-2021\TeddyShop\TeddyShop.UnitTest\bin\Debug\EntityFramework.dll
+D:\HK2_2020-2021\TeddyShop\TeddyShop.UnitTest\bin\Debug\EntityFramework.xml

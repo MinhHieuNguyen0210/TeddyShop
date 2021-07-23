@@ -12,5 +12,5 @@ namespace TeddyShop.Model.Model
         [Key]
         [MaxLength(50)]
         public string ID { get; set; }
-    }
+    }   
 }

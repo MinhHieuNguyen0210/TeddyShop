@@ -12,3 +12,8 @@ D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\obj\Debug\TeddyShop.Data.csproj.CoreCo
 D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\obj\Debug\TeddyShop.Data.csproj.CopyComplete
 D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\obj\Debug\TeddyShop.Data.dll
 D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\obj\Debug\TeddyShop.Data.pdb
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\bin\Debug\TeddyShop.Model.dll
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\bin\Debug\TeddyShop.Model.pdb
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\bin\Debug\TeddyShop.Model.dll.config
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\obj\Debug\TeddyShop.Data.Migrations.InitalDB.resources
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Data\obj\Debug\TeddyShop.Data.csproj.GenerateResource.cache

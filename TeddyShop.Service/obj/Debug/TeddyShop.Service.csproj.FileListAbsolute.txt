@@ -13,3 +13,5 @@ D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\obj\Debug\TeddyShop.Service.csproj.
 D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\obj\Debug\TeddyShop.Service.csproj.CopyComplete
 D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\obj\Debug\TeddyShop.Service.dll
 D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\obj\Debug\TeddyShop.Service.pdb
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\bin\Debug\EntityFramework.dll
+D:\HK2_2020-2021\TeddyShop\TeddyShop.Service\bin\Debug\EntityFramework.xml
